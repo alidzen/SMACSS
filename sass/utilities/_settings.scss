@@ -1,0 +1,23 @@
+/* ==========================================================================
+   Site settings.
+   ========================================================================== */
+
+   /* Typograthy */
+$base_fs: 16px;
+$font: "Roboto", Helvetica, Arial, sans-serif;
+
+$baseline: $base_fs * 1.5;
+//   $c_blue: ;/* and so on... */
+
+    /* Colors */
+$color_text1: #666666;
+$color_text2: #4870d3;
+$color_text3: #000000;
+
+$color_hr: #dddddd;
+
+    /* Positioning */
+$margin_multiplier: 2;
+
+$general_margin: $baseline * $margin-multiplier;
+
